@@ -7,7 +7,7 @@
 </div>
 
 ### Formação
--   👨‍🎓  Estudante de Análise e Desenvolvimento de sistemas, atualmente estou cursando o 3° semestre.
+-   👨‍🎓  Estudante de Análise e Desenvolvimento de sistemas, atualmente estou cursando o 4° semestre.
 -  🌱Atualmente estou aprendendo Java
 -  🎯  Interesse: Java, Python, C .
 
