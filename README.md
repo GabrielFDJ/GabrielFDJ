@@ -7,9 +7,9 @@
 </div>
 
 ### Formação
--   👨‍🎓  Estudante de Análise e Desenvolvimento de sistemas, atualmente estou cursando o 4° semestre.
--  🌱Atualmente estou aprendendo Java
--  🎯  Interesse: Java, Python, C .
+-   👨‍🎓  Analista de sistemas.
+-  🌱Atualmente estou aprendendo C#.
+-  🎯  Interesse: C#, Java, Python, C.
 
 ### Contato  📱
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-ferreira-447998140/)](https://www.linkedin.com/in/gabriel-ferreira-447998140/) 
